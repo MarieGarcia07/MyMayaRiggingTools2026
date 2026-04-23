@@ -41,3 +41,4 @@ global proc AddPluginToShelf(string $scriptName, string $label)
 }
 
 AddPluginToShelf("limbRigger", "Limb Rigger");
+AddPluginToShelf("mayaToUE", "Maya To UE");
